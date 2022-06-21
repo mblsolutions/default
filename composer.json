@@ -1,0 +1,16 @@
+{
+    "name": "mblsolutions/default",
+    "description": "Landing page for servers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Innerbichler",
+            "email": "christian.innerbichler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "ext-json": "*"
+    }
+}
